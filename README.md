@@ -1,53 +1,29 @@
-# Title (replace with your title)
+# My-ReadMe-Generator
+    
+  ### Description
+  In this project I set a simple tutorial with a deconstructed regex expression to 
+  show how it works.
 
-Introductory paragraph (replace this with your text)
+  ## Table of Contents
+  * [Description](#description)
+  * [Links](#links)
+  * [License](#license)
+  * [Questions](#questions)
+  
 
-## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+  ### Links
+  [Github](https://github.com/HaydenLenca/Regex-Challenge) 
+  
 
-## Table of Contents
 
-- [Anchors](#anchors)
-- [Quantifiers](#quantifiers)
-- [OR Operator](#or-operator)
-- [Character Classes](#character-classes)
-- [Flags](#flags)
-- [Grouping and Capturing](#grouping-and-capturing)
-- [Bracket Expressions](#bracket-expressions)
-- [Greedy and Lazy Match](#greedy-and-lazy-match)
-- [Boundaries](#boundaries)
-- [Back-references](#back-references)
-- [Look-ahead and Look-behind](#look-ahead-and-look-behind)
+  ### License 
+   MIT
 
-## Regex Components
+  
+   
 
-### Anchors
-
-### Quantifiers
-
-### OR Operator
-
-### Character Classes
-
-### Flags
-
-### Grouping and Capturing
-
-### Bracket Expressions
-
-### Greedy and Lazy Match
-
-### Boundaries
-
-### Back-references
-
-### Look-ahead and Look-behind
-
-## Author
-
-about me 
-
-[Github](https://github.com/HaydenLenca)
-
-[Github Regex-Challenge](https://github.com/HaydenLenca/Regex-Challenge)
+  ### Questions 
+  Please reach out to me at either Github or email with any questions.
+  #### Github: https://github.com/HaydenLenca
+  #### Contact Email: Hlenca@me.com

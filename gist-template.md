@@ -1,8 +1,8 @@
 # Regex Tutorial: Matching a Email
 
-
 Regex is a regular expression which uses letters, symbols and numbers to match areas of interest.
 It is one of the easier things to learn and use while programming while being useful.
+
 
 ## Summary
 

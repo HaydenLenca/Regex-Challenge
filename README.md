@@ -2,7 +2,7 @@
     
   ### Description
   In this project I set a simple tutorial with a deconstructed regex expression to 
-  show how it works.
+  show how it works. Once the basics are learned Regular expressions can be fairly easy.
 
   ## Table of Contents
   * [Description](#description)
